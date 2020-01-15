@@ -1,0 +1,176 @@
+
+
+
+
+
+
+
+ _____String_____________ favoriteHobby = "programming";
+_________int	___________ numberOfToes = 10;
+________int____________ degreesInARightAngle = 90;
+_________int___________ myAge = _________11___________;
+String _input___________________ = "Java";
+double ________pi____________ = 3.14159;
+
+
+
+
+
+
+ String whatIWantToBeWhenIGrowUp = "soccer player";
+    int facebookFriends = 0;
+    String myBirthday = "september fifth";
+    int sidesInATriangle = 3;
+    
+    
+    
+    
+    
+    
+    
+       String whatYouGotForYourBirthday = "Lego set";
+    String theLastMealYouAte = "Soup";
+   int whatTimeYouGoToBed =  9;
+  String howManyRobotProgramsYouHaveWritten = "a lot";
+  
+  
+  
+  
+  
+  
+  
+  for(  i = 1            ;  i <= 10;           ;    i++         )
+{ 
+
+
+}
+
+
+
+
+ for(  i = 75            ;  i >= 50;           ;    i--         )
+{ 
+
+
+}
+
+
+
+
+
+
+for( a ; b ; c )
+{               } 
+
+
+
+a) a is the staring point
+b) b says when it stops/shows ending point
+c) c tells if you count up or down
+
+
+  
+  
+  String hi = "yes";
+  
+ JOtionPane.showInputDialog (null, " yes or no choose quick";
+  
+  
+  
+
+
+  
+  if (input .equals ("Yes")){
+  
+  JOtionPane.showMessageDialog (null, "happy";
+  
+  }
+  
+  else{
+  
+  JOtionPane.showMessageDialog (null, "sad";
+  
+  
+  }
+  
+  
+  JOtionPane.showMessageDialog (null, "Wednesday";
+  
+  
+  if you say "no" it will print sad
+  
+  
+  
+  
+  
+  
+  
+  
+  int myAge = 11;
+  
+  
+
+  
+  
+   if (myAge <20){
+  
+  JOtionPane.showMessageDialog (null, "Its great being young";
+  
+  }
+  
+  
+  
+  
+  
+   
+   if (myAge >20){
+  
+  JOtionPane.showMessageDialog (null, "Don't you wish you were young";
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ String input = JOtionPane.showInputDialog (null, "what animals do you like";
+  
+  
+  
+  
+  
+  
+   if (input .equals ("dogs")){
+  
+  JOtionPane.showMessageDialog (null, "Dogs go woof";
+  
+  }
+  
+  
+  
+  
+  
+  
+  if (input .equals ("cats")){
+  
+  JOtionPane.showMessageDialog (null, "Cats go meow";
+  
+  }
+  
+  
+  
+  
+  else{
+  
+  JOtionPane.showMessageDialog (null, "I do not know that animal";
+  
+  }
+  
+
+  
